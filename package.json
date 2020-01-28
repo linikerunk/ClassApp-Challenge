@@ -1,0 +1,20 @@
+{
+  "name": "challenge_classapp",
+  "version": "1.0.0",
+  "description": "Desafio para o ClassTech, empresa ClassApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ClassApp",
+    "Challenge"
+  ],
+  "author": "Liniker Oliveira",
+  "license": "MIT",
+  "dependencies": {
+    "fast-csv": "^4.0.2",
+    "google-libphonenumber": "^3.2.6",
+    "lodash": "^4.17.15"
+  }
+}
